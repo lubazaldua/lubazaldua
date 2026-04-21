@@ -1,16 +1,34 @@
-## Hi there 👋
+# README
 
-<!--
-**lubazaldua/lubazaldua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Profile
+I am a software engineering student at UAQ, currently in my 4th semester. Passionate about technology and continuous learning.
 
-Here are some ideas to get you started:
+## Technical Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Programming Languages
+- Python
+- JavaScript
+- Java
+
+### Web Development
+- HTML
+- CSS
+- React
+
+### Tools and Technologies
+- Git
+- Docker
+- VSCode
+
+### Databases
+- MySQL
+- MongoDB
+
+### Other Skills
+- Agile Methodologies
+- Problem Solving
+- Team Collaboration
+
+---
+
+This README aims to present a concise and professional overview of my skills and background.
